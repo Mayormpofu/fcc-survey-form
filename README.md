@@ -1,10 +1,14 @@
-#Survey Form Project
-This is a simple survey form built using HTML as part of my freecodecamp learning journey.
+# Survey Form Project
 
-##What  l learned:
--HTML form elements
--input types (text,email,Radio buttons,etc)
--Basic wabpage structure
+This is a simple survey form built using HTML as part of my FreeCodeCamp learning journey.
 
-##Purpose
+## Live Demo
+[View Survey Form](https://mayormpofu.github.io/fcc-survey-form/)
+
+## What I Learned
+- HTML form elements
+- Input types (text, email, radio buttons, etc.)
+- Basic webpage structure
+
+## Purpose
 This project helped me understand how to create user input forms in web development.
